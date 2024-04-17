@@ -18,7 +18,6 @@
         "twxs.cmake",
         "uavcan.dsdl",
         "wholroyd.jinja",
-        "zixuanwang.linkerscript",
-        "ms-vscode.makefile-tools"
+        "zixuanwang.linkerscript"
     ]
 }
